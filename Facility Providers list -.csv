@@ -1,0 +1,83 @@
+No ,FACILITY,ADDRESS,CITY,ZIP,PHONE,FAX,Primary Circuit,Secondary Circuit,Circuit speeds,Internet Provider,Phone Provider,Account Number,Circuit ID,WAN IP,LAN IP,Notes
+355,Birchwood,110 Highway 64 West,Cooper,75432,903-395-2125,903-395-4932,,,,CenturyLink,Mettel,313105218,903.395.4932,67.77.67.172,192.168.155.0/24,
+356,Blanco Villa,8020 Blanco Road,San Antonio,78216,210-344-4553,210-366-3728,,,,Time Warner,Mettel,,,24.153.130.118,192.168.156.0/24,
+310,Bluebonnet,696 FM 99,Karnes City,78118,830-780-3944,830-780-4469,DSL VPN,,,AT&T,Mettel,,,99.165.134.209,192.168.110.0/24,Not the flower
+341,Bonham,709 West Fifth,Bonham,75418,903-583-8551,903-583-9456,Cable VPN,,,Cable One,Mettel,,,72.24.133.110,192.168.141.0/24,
+357,Brownwood,101 Miller Dr.,Brownwood,76801,325-643-9555,325-643-9519,,,,Verizon,Mettel,,,71.116.13.146,192.168.157.0/24,
+391,Burleson,600 Maple Ave. ,Burleson,76028,817-295-8118,817-447-0857,,,,CenturyLink,Simple Signal,,DS1NT-17137792.1 and .2,63.158.126.18/30,172.23.91.0/24,Labeled as Qwest MPLS circuit
+330,Carrizo springs,506 S. 7th Street,Carrizo Springs,78834,830-876-5011,830-876-9414,,,,AT&T,Mettel,,,75.34.249.217,192.168.130.0/24,
+358,Clifton,1000 FM 3220,Clifton,76634,254-675-2828,254-675-2929,,,,CenturyLink,Mettel,,,69.68.119.190,192.168.158.0/24,
+392,Comfort,615 Faltin St. ,Comfort,78013,830-995-3747,830-995-3057,,,,CenturyLink,Simple Signal,,DS1NT-16930067.01 and .02,67.132.138.122/30,172.23.87.0/24,
+309,Cottonwood,2224 North Carroll Blvd.,Denton,76201,940-387-6656,940-387-9548,T-1 MPLS,,1.5mb,Paetec\windstream,Paetec,,,209.253.109.166/30,192.168.109.0/24,Bonded T1's: (1) - LEC 28/HCGS/907919//SW (2) - /LEC 28/HCGS/907920//SW
+342,Country Club,9 Medical Drive,Amarillo,79106,806-352-2731,806-353-9507,,,,SuddenLink,Mettel ,,,205.201.67.125,192.168.142.0/24,
+376,Country View,1900 North Frances St.,Terrell,75160,972-524-2503,972-524-4479,,,,Earth link,Mettel,,,12.135.92.64,192.168.176.0/24,
+324,Countryside,1700 Washington,Pilot Point,76258,940-686-5556,940-686-2092,,,,SuddenLink,Mettel,,,72.47.3.166,192.168.124.0/24,
+348,Decatur,605 West Mulberry,Decatur,76234,940-627-5444,940-627-2912,,,,CenturyLink,Mettel,,DS1IT-16543577,65.40.98.175,192.168.148.0/24,
+315,Deerings/Odessa,1020 N. County Rd. West,Odessa,79763,432-332-0371,432-332-0075,T-1 MPLS,Cable VPN ( Backup ),1.5mb / 30mb,CenturyLink ,Simple Signal,,DS1IT-16543577,"T1: 208.44.72.54, VPN: 69.92.99.71",192.168.115.0/24,Century Link T1 MPLS w/VPN backup
+303,DeLeon,809 E. Navarro,DeLeon,76444,254-893-2075,254-893-5595,,,,Nitel,Mettel,,,12.89.225.78,192.168.103.0/24,
+344,Denison,601 East Highway 69,Denison,75020,903-465-2438,903-463-3741,,,,Cable One,Telecom,,,24.117.225.95,192.168.144.0/24,
+393,Diboll,900 S Temple Dr. ,Diboll,75941,936-829-5501,936-829-5503,,,,CenturyLink,Simple Signal,,DS1IT-17141848,65.114.88.206/30,172.23.92.0/24,Labeled as Qwest circuit
+,Eagle Lake,,,,,,T-1 MPLS x2,,3mb,,,,DS1NT-16930067.01 and .02,67.132.138.122/30,172.23.87.0/24,
+335,Falfurrias,1301 South Terrell,Falfurrias,78355,361-325-3658,361-325-3819,,,,Time Warner,Mettel ,,,71.40.201.94,192.168.135.0/24,
+388,Fortress,1105 Rock Prairie Road,College Station,77845,979-694-2200,979-696-6206,,,,CenturyLink,Simple Signal,,DS1NT-17137256.1 and .2,65.114.88.142/30,172.23.88.0/24,Labeled as Qwest circuit
+383,Frankston,303 Murchison,Frankston,75763,903-481-5848,903-481-5061,T-1 MPLS,,1.5mb,CenturyLink,Simple Signal,,,,,
+343,Fredericksburg,1117 South Adams,Fredericksburg,78624,830-997-4364,830-997-3244,,,,Windstream,Mettel,,,207.155.4.18,192.168.143.0/24,
+361,Garland,321 North Shiloh Road,Garland,75042,972-276-9571,972-272-8660,T-1 MPLS,,1.5mb,Paetec\windstream,Paetec,,,209.253.154.234/30,192.168.161.0/24,
+386,Gilmer,703 Titus St,Gilmer,75644,903-843-5529,903-680-2175,T-1 MPLS,4g - Verizon ( Backup ),,CenturyLink,Simple Signal,,,166.150.112.248,192.168.186.0/24,
+394,Granbury,600 Reunion Ct. ,Granbury,76048,817-573-3773,817-573-0103,,,,CenturyLink,Simple Signal,,DS1IT-17137761,63.158.126.134/30,172.23.94.0/24,Labeled as Qwest circuit
+601,Greenville,117 Sycamore St,"Greenville, MO",63944,573-224-3298,573-224-3745,,,,Windstream,Windstream,,,173.184.189.222,172.26.1.0/24,
+362,Heritage Villa,310 East Lawrence,Dayton,77535,936-258-7227,936-258-7223,,,,AT&T,Mettel ,,,75.39.205.81,192.168.162.0/24,
+363,Hillcrest,300 East Brown,Wylie,75098,972-442-3553,972-442-1622,T-1 MPLS,,1.5mb,Paetec\windstream,Paetec,,,209.253.154.242/30,192.168.163.0/24,
+384,Hondo,3002 Avenue Q,Hondo,78861,830-426-3056,830-426-8152,,,,Reach Broadband,AT&T,,,63.232.29.236,192.168.184.0/24,
+353,Houston,4225 Denmark,Houston,77016,713-631-0200,713-635-4801,,,,AT&T,Mettel ,,,75.39.205.89,192.168.153.0/24,
+364,Irving,619 North Britain Rd.,Irving,75061,972-785-9300,972-785-9314,T-1 MPLS,,1.5mb,Paetec\windstream,Paetec,,,209.33.186.158/30,192.168.164.0/24,
+395,Italy,220 Davenport St. ,Italy,76651,972-483-6369,972-483-6114,,,,CenturyLink,Simple Signal,,DS1IT-17137781,63.158.126.138/30,172.23.95.0/24,Labeled as Qwest circuit
+329,Jasper,350 Springhill St.,Jasper,75951,409-384-5411,409-384-9909,,,,CMA,Mettel ,,,64.219.127.222,192.168.129.0/24,
+377,Keeneland,700 South Bowie,Weatherford,76086,817-594-2715,817-596-3130,,,,AT&T,Mettel,,,75.38.9.185,192.168.177.0/24,
+323,Kleberg,316 General Cavazos,Kingsville,78363,361-592-9366,361-595-7389,T-1 MPLS,,1.5mb,CenturyLink,Simple Signal,,,,,
+351,La Bahia,225 East Ward Street,Goliad,77963,361-645-8902,361-645-8689,,,,AT&T,Mettel,,,75.16.126.137,192.168.151.0/24,
+334,Lake Lodge,3800 Marina Drive,Lake Worth,76135,817-237-7231,817-237-5086,T-1 MPLS,,1.5mb,Paetec\windstream,Paetec,,,209.33.186.182/30,192.168.134.0/24,
+389,Lampstand,2001 E 29th St.,Bryan,77802,979-822-6611,979-822-0462,,,,CenturyLink,Simple Signal,,DS1NT-17137258.1-.2,65.114.88.118/30,172.23.89.0/24,Labeled as Qwest Circuit
+354,Littlefield,1241 W. Marshall Howard Blvd.,Littlefield,79339,806-385-6600,806-385-4688,,,,Rhino Communications,Mettel ,8.14E+15,,64.207.66.138,192.168.154.0/24,
+338,Lynwood,803 South Alamo,Levelland,79336,806-894-2806,806-894-2033,,,,Windstream,Windstream,,,72.16.105.26,192.168.138.0/24,
+390,Magnified,1115 Anderson St. ,College Station,77840,979-693-1515,979-696-0462,,,,CenturyLink,Simple Signal,,DS1NT-17137254.1 and .2,65.114.88.122/30,172.23.90.0/24,
+366,Mansfield,1402 East Broad St.,Mansfield,76063,817-477-2176,817-473-2193,T-1 MPLS,,1.5mb,Paetec\windstream,Paetec,,,209.253.154.226/30,192.168.166.0/24,
+379,Marine Creek,3600 Angle Ave.,Ft. Worth,76106,817-624-6164,817-624-7523,T-1 MPLS,,1.5mb,Paetec\windstream,Paetec,,,209.253.154.182/30,192.168.179.0/24,
+325,Metroplex,658 Southwest 3rd Street,Grand Prairie,75051,972-264-0560,972-264-5447,T-1 MPLS,,1.5mb,Paetec\windstream,Paetec,,,209.33.186.174/30,192.168.125.0/24,
+304,Mission Ridge,401 Swift Street,Refugio,78377,361-526-9223,361-526-2736,,,,AT&T,Mettel,,,75.16.126.145,192.168.104.0/24,
+305,Monte Siesta,4501 Dudmar,Austin,78735,512-892-1131,512-892-7548,,,,AT&T,Mettel,,,108.82.85.217,192.168.105.0/24,
+403,Mount Moriah,355 FM 83,Hemphill,75948,409-787-5300,409-787-5398,,,,Heritage Windstream,Heritage Windstream,,,71.29.89.94,192.168.203.0/24,Not a Horse named Moriah
+313,Navasota,1405 East Washington,Navasota,77868,936-825-6463,936-825-6637,,,,CenturyLink,Mettel,centurylink\313478351,,76.4.41.27,192.168.113.0/24,
+345,Nolan,1901 Lamar,Sweetwater,79556,325-235-5417,325-235-4519,,,,SuddenLink,CenturyLink,,,66.76.78.147,192.168.145.0/24,
+368,North Pointe,7804 Virgil R. Anthony Blvd.,Watauga,76148,817-498-7220,817-498-6735,T-1 MPLS,,1.5mb,CenturyLink,Simple Signal,,,,,
+311,Oak Manor,2901 Sterling Hart Drive,Commerce,75428,903-886-2510,903-886-3538,,,,CenturyLink,Mettel,,,67.77.67.171,192.168.111.0/24,
+378,Oakwood,301 West Randol Mill Road,Arlington,76011,817-460-2002,817-265-2059,,,,Time Warner,Mettel ,,circuit DS1IT-16806765,64.183.216.226,192.168.178.0/24,
+370,Orange Villa,501 North Third St.,Orange,77630,409-886-8677,409-886-1782,,,,AT&T,Mettel,,,75.25.185.193,192.168.170.0/24,
+317,Pecan Manor,413 E. Mansfield Cardinal Rd.,Kennedale,76060,817-561-4495,817-561-6033,T-1 MPLS,,1.5mb,Paetec\windstream,Paetec,,,209.33.186.190/30,192.168.117.0/24,
+371,Pinehurst,3000 Cardinal Drive,Orange,77630,409-883-5727,409-883-9078,,,,AT&T,Mettel ,,,75.25.185.153,192.168.171.0/24,
+600,Portageville,290 West State Hwy 162,Portageville,63873,573-379-2017,573-379-2753,,,,Socket,Socket,,,216.106.91.126,172.26.0.0/24,
+328,Regency Manor,1615 Eleventh Street,Floresville,78114,830-216-7090,830-393-0381,,,,AT&T,Mettel,,,12.118.143.30,192.168.128.0/24,
+316,Riverview,1102 River Road,Boerne,78006,830-249-2799,830-249-3044,,,,GVTC,Mettel,,"DS1IT-17063391, VPN backup","T1 MPLS: 65.114.204.242, VPN: 216.177.172.174",192.168.116.0/24,"Century Link MPLS, VPN backup"
+402,Rock Creek,1414 College Street ,Sulphur Springs,75482,903-439-0107,,T-1 MPLS,,1.5mb,CenturyLink,Simple Signal,,,,,
+326,Seabreeze,6602 Memorial Drive,Texas City,77590,409-935-2451,409-938-0913,,,,AT&T,Mettel,,,99.72.184.49,192.168.126.0/24,
+602,Senath,300 East Hornbeck St,Senath,63876,573-738-2627,573-738-3205,,,,Socket,Socket,,,216.106.72.142,172.26.2.0/24,
+380,Seven Oaks,901 Seven Oaks Rd.,Bonham,75418,903-583-2191,903-583-2759,T-1 MPLS,,1.5mb,CenturyLink,Simple Signal,,,72.24.133.96,192.168.180.0/24,
+301,Sienna,2510 West Eighth,Odessa,79763,432-333-4511,432-333-6078,,,,AT&T,Mettel,,,75.37.108.233,192.168.101.0/24,
+349,Silver Pines,188 Old Austin Hwy.,Bastrop,78602,512-321-6220,512-321-6616,,,,Time Warner,Mettel,,,71.41.7.210,192.168.149.0/24,
+314,Spring Creek,2600 Brickyard Road,Beaumont,77703,409-892-1533,409-892-1405,,,,AT&T,Mettel,,,75.25.185.249,192.168.114.0/24,Not BBQ
+307,Spring Oaks,901 Central Texas Expy.,Lampasas,76550,512-556-6273,512-556-5840,,,,AT&T,Mettel,,,75.42.226.201,192.168.107.0/24,
+373,Stanton,1100 West Broadway,Stanton,79782,432-756-2841,432-756-2904,,,,Wes-Tex,Mettel,,,69.55.205.102,192.168.173.0/24,
+308,Terrace West,2800 Midland Drive,Midland,79707,432-697-3108,432-689-0486,,,,SuddenLink,Mettel,,,205.201.66.94,192.168.108.0/24,
+401,The Atrium,2401 Development Blvd,Bellmead,76705,254-296-8976,254-296-8993  ,T-1 MPLS x2,,3mb,CenturyLink,Simple Signal,,,,,
+374,The Palms,5607 Everhart Road,Corpus Christi,78411,361-854-4601,361-854-6823,,,,Time Warner,Mettel,,,71.40.253.190,192.168.174.0/24,
+382,Trinity,902 East Main St.,San Augustine,75972,936-275-2055,936-275-5658,,,,AT&T,Mettel,,,24.32.58.152,192.168.182.0/24,
+375,University Park,4511 Coronado Ave.,Wichita Falls,76310,940-692-8001,940-692-8954,T-1 MPLS,,1.5mb,CenturyLink,Simple Signal,,,,,
+359,Valley Mills,101 W. Avenue E,Valley Mills,76689,254-932-6288,254-932-6286,,,,Windstream,Mettel,,,162.40.54.114,192.168.159.0/24,
+365,Wellington Oaks,701 St. Louis Ave.,Ft. Worth,76104,817-332-9962,817-332-9252,T-1 MPLS,,1.5mb,Paetec\windstream,Paetec,,,209.33.186.206/30,192.168.165.0/24,
+369,Westridge,1241 Westridge Ave.,Lancaster,75146,972-227-5110,972-227-9189,,,,AT&T,Mettel ,,,75.36.20.217,192.168.169.0/24,
+385,Westward,3001 Westward Drive,Nacogdoches,77964,936-569-2631,936-569-0590,,,,CenturyLink,AT&T,,,66.76.64.252,192.168.185.0/24,Labeled as Nacadoches in VPN Router
+367,Wheeler,1000 South Kiowa,Wheeler,79096,806-826-3505,806-826-3195,,,,Windstream,Mettel,,,75.91.223.230,192.168.167.0/24,
+346,Willis,3000 North Danville Road,Willis,77378,936-856-4312,936-856-4364,,,,AT&T,Windstream,,,12.118.215.218,192.168.146.0/24,
+396,Winnsboro,502 E. Coke Rd. ,Winnsboro,75494,903-342-6951,903-342-3387,,,,CenturyLink,Simple Signal,,DS1IT-17137779,63.158.126.166/30,172.23.96.0/24,Labeled as Qwest circuit
+322,Woodland,99 Rigby Owen Road,Conroe,77304,936-756-1240,936-760-3420,T-1 MPLS,,1.5mb,CenturyLink,Simple Signal,,,173.219.18.39,172.23.97.0/24,
+397,Whispering Pines,910 S Beech St,Winnsboro,75494, 903 342 6616,,,,,,,,,,,
